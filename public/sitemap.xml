@@ -3,26 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://vasilishynkarenka.com/how-to-write-meeting-notes/</loc>
+    <loc>/posts/</loc>
     <lastmod>2020-08-31T11:11:35+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://vasilishynkarenka.com/posts/</loc>
+    <loc>/two-minute-rule/</loc>
     <lastmod>2020-08-31T11:11:35+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://vasilishynkarenka.com/</loc>
+    <loc>/</loc>
     <lastmod>2020-08-31T11:11:35+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://vasilishynkarenka.com/categories/</loc>
+    <loc>/about/</loc>
+    <lastmod>2020-08-31T11:09:14+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://vasilishynkarenka.com/tags/</loc>
+    <loc>/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
   </url>
   
 </urlset>

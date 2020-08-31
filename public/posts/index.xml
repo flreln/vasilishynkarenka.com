@@ -2,25 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Vasili Shynkarenka</title>
-    <link>https://vasilishynkarenka.com/posts/</link>
+    <link>/posts/</link>
     <description>Recent content in Posts on Vasili Shynkarenka</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Mon, 31 Aug 2020 11:11:35 +0100</lastBuildDate>
     
-	<atom:link href="https://vasilishynkarenka.com/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     
     <item>
-      <title>How to write meeting notes</title>
-      <link>https://vasilishynkarenka.com/how-to-write-meeting-notes/</link>
+      <title>Two-minute rule</title>
+      <link>/two-minute-rule/</link>
       <pubDate>Mon, 31 Aug 2020 11:11:35 +0100</pubDate>
       
-      <guid>https://vasilishynkarenka.com/how-to-write-meeting-notes/</guid>
-      <description>Welcome, neo.
-A new post is coming.</description>
+      <guid>/two-minute-rule/</guid>
+      <description>This work aims to help you integrate a simple routine of doing any action right then and there if it takes less than two minutes to do it. This will keep your next actions list short, prevent cognitive load, and improve your decision-making skills.
+Table of contents:
+ The two-minute rule means doing an action right then and there if it takes less than two minutes to do it Two-minute rule improves work outcomes for seven reasons:  First, it saves time Second, it reduces cognitive load Third, it keeps your next actions list short Fourth, it unlocks valuable new information Fifth, it prevents decision fatigue Sixth, it improves decision making on autopilot Seventh, it helps to avoid diminishing returns of time spent on a task   Steps to integrate the two-minute rule into your workflow   Most actions take less than two minutes to do.</description>
     </item>
+    
+    
     
     
   </channel>
