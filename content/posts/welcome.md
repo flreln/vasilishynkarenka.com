@@ -5,3 +5,5 @@ draft: true
 ---
 
 Welcome, neo.
+
+A new post is coming.
